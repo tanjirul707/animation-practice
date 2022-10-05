@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(59, 228, 250, 0.507);
+}
+
+
+
+
+
+
+
+.box{
+    height: 100px;
+    width: 100px;
+    padding: 0px;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.font-size-45 {
+    font-size: 45px;
+}
+
+.color-alice{
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
